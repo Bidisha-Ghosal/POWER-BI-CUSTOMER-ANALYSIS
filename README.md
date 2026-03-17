@@ -21,3 +21,5 @@ Due to file size limitations, download the project here:
 * Customer complaint patterns
 * Satisfaction trends
 * Operational bottlenecks
+
+![Dashboard](Screenshot 2026-03-17 200226.png)
