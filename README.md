@@ -22,4 +22,7 @@ Due to file size limitations, download the project here:
 * Satisfaction trends
 * Operational bottlenecks
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
+![Dashboard](Dashboard2.png)
+![Dashboard](Dashboard3.png)
+![Dashboard](Dashboard4.png)
